@@ -1,3 +1,3 @@
-# Next.js + Tailwind CSS
+# Next.js - Blog Website
 
-Blog Website
+Built with Next-JS, Tailwind CSS, GraphCMS
